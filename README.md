@@ -26,13 +26,14 @@
 <!-- *  [Instagram]( https://www.instagram.com/flai.inteligencia.artificial/) 
 *  [Blog](https://www.flai.com.br/juscudilio/) -->
 
-
+<!--
 ## **My projects**
 
 * [Project1](https://github.com/filipeallins)
 * [Project2](https://github.com/filipeallins)
 * [Project3](https://github.com/filipeallins)
 * [Project4](https://github.com/filipeallins)
+-->
 
 <!--
 **filipeallins/filipeallins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
